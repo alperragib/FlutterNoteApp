@@ -1,0 +1,10 @@
+#Fri Sep 22 18:45:36 TRT 2023
+base.0=/Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+base.1=/Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/desugar_lib_dex/debug/classes1000.dex
+base.2=/Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
+path.0=classes.dex
+path.1=classes1000.dex
+path.2=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

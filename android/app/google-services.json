@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302024261515",
+    "project_id": "code23-note-app",
+    "storage_bucket": "code23-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302024261515:android:38e5f41a9f6121e71c798e",
+        "android_client_info": {
+          "package_name": "com.code23.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wcMD8-80tYL_AjF-EuzDcCuyXXpQ-RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

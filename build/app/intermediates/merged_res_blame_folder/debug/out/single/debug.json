@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.code23.noteapp-main-13:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-v21_background.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.code23.noteapp-main-13:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable_launch_background.xml.flat",
+        "source": "com.code23.noteapp-main-13:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable_background.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable/background.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-xhdpi_splash.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-mdpi_splash.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-v21_launch_background.xml.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.code23.noteapp-main-13:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.code23.noteapp-main-13:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.code23.noteapp-main-13:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.code23.noteapp-merged_res-19:/drawable-hdpi_splash.png.flat",
+        "source": "com.code23.noteapp-main-13:/drawable-hdpi/splash.png"
+    }
+]

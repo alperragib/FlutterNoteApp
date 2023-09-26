@@ -1,0 +1,27 @@
+com.code23.noteapp-lifecycle-runtime-2.3.1-0 /Users/alperragib/.gradle/caches/transforms-3/036ca1395885f35e449d457f0ca07456/transformed/lifecycle-runtime-2.3.1/res
+com.code23.noteapp-jetified-firebase-common-20.3.3-1 /Users/alperragib/.gradle/caches/transforms-3/04d54205cae76f1c8bb124053dfe73f4/transformed/jetified-firebase-common-20.3.3/res
+com.code23.noteapp-media-1.1.0-2 /Users/alperragib/.gradle/caches/transforms-3/26499f3353e97917e034df57d8fa4372/transformed/media-1.1.0/res
+com.code23.noteapp-jetified-window-java-1.0.0-3 /Users/alperragib/.gradle/caches/transforms-3/47226637484bf446dd02c7c40c655a7f/transformed/jetified-window-java-1.0.0/res
+com.code23.noteapp-browser-1.5.0-4 /Users/alperragib/.gradle/caches/transforms-3/721ac129bf86fbce5066d29b0de7d232/transformed/browser-1.5.0/res
+com.code23.noteapp-jetified-window-1.0.0-5 /Users/alperragib/.gradle/caches/transforms-3/814c7f3a7fbce82a76f332d79f6a5bd0/transformed/jetified-window-1.0.0/res
+com.code23.noteapp-jetified-play-services-basement-18.1.0-6 /Users/alperragib/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/res
+com.code23.noteapp-jetified-annotation-experimental-1.3.0-7 /Users/alperragib/.gradle/caches/transforms-3/a3005bc186290fc9f7ac9e2ce541512a/transformed/jetified-annotation-experimental-1.3.0/res
+com.code23.noteapp-localbroadcastmanager-1.1.0-8 /Users/alperragib/.gradle/caches/transforms-3/a4a5d5ebf4c0231bde35c244ff00e744/transformed/localbroadcastmanager-1.1.0/res
+com.code23.noteapp-jetified-firebase-messaging-23.2.1-9 /Users/alperragib/.gradle/caches/transforms-3/b2492cb55e682865e67301db862b3643/transformed/jetified-firebase-messaging-23.2.1/res
+com.code23.noteapp-core-1.10.1-10 /Users/alperragib/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/res
+com.code23.noteapp-jetified-play-services-base-18.0.1-11 /Users/alperragib/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/res
+com.code23.noteapp-debug-12 /Users/alperragib/Flutter Projects/code23_note_app/android/app/src/debug/res
+com.code23.noteapp-main-13 /Users/alperragib/Flutter Projects/code23_note_app/android/app/src/main/res
+com.code23.noteapp-pngs-14 /Users/alperragib/Flutter Projects/code23_note_app/build/app/generated/res/pngs/debug
+com.code23.noteapp-resValues-15 /Users/alperragib/Flutter Projects/code23_note_app/build/app/generated/res/resValues/debug
+com.code23.noteapp-rs-16 /Users/alperragib/Flutter Projects/code23_note_app/build/app/generated/res/rs/debug
+com.code23.noteapp-mergeDebugResources-17 /Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.code23.noteapp-mergeDebugResources-18 /Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.code23.noteapp-merged_res-19 /Users/alperragib/Flutter Projects/code23_note_app/build/app/intermediates/merged_res/debug
+com.code23.noteapp-packaged_res-20 /Users/alperragib/Flutter Projects/code23_note_app/build/firebase_core/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-21 /Users/alperragib/Flutter Projects/code23_note_app/build/firebase_messaging/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-22 /Users/alperragib/Flutter Projects/code23_note_app/build/flutter_local_notifications/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-23 /Users/alperragib/Flutter Projects/code23_note_app/build/flutter_native_splash/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-24 /Users/alperragib/Flutter Projects/code23_note_app/build/path_provider_android/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-25 /Users/alperragib/Flutter Projects/code23_note_app/build/sqflite/intermediates/packaged_res/debug
+com.code23.noteapp-packaged_res-26 /Users/alperragib/Flutter Projects/code23_note_app/build/url_launcher_android/intermediates/packaged_res/debug
