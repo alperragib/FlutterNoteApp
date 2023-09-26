@@ -1,6 +1,6 @@
-# code23_note_app
+# Flutter Note App
 
-This project was developed by Alper Ragıb.
+This project was developed by Alper Ragıb for use in Code23 Mobile Application Development training.
 
 ## Getting Started
 
