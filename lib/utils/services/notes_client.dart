@@ -33,9 +33,7 @@ class NotesClient {
     List<Note> notes = [];
 
     var response = await dio.get(
-      Uri.parse(
-              '${ApiConstant.notesUrl}?title[search]=%$searchKey%&size=$size&page=$page')
-          .toString(),
+      Uri.parse('${ApiConstant.notesUrl}search/$searchKey').toString(),
       options: Options(headers: headers),
     );
 

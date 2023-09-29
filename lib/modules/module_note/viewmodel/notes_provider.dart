@@ -22,7 +22,7 @@ class NotesNotifier extends PagedNotifier<int, Note> {
 
   Future<void> search({required String searchKey}) async {
     var searchNotes = await NotesClient().searchNotes(searchKey: searchKey);
-    state = state.copyWith(records: searchNotes);
+    state = state.copyWith(records: searchNotes, nextPageKey: null);
   }
 }
 
