@@ -50,12 +50,12 @@ class _NotesPageState extends ConsumerState<NotesPage> {
               ref.invalidate(notesProvider);
             },
             closeButtonOnPressed: () {
-              if (searchController.text.isNotEmpty) {
-                setState(() {
-                  searchController.text = "";
-                });
-                ref.invalidate(notesProvider);
-              }
+              searchController.text = "";
+              setState(() {
+                isSearch = false;
+              });
+
+              ref.invalidate(notesProvider);
             },
           )),
       body: SafeArea(
